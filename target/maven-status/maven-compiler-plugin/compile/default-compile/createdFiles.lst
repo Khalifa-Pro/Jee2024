@@ -1,0 +1,6 @@
+sn\dev\jee\dao\SingletonConnection.class
+sn\dev\jee\dao\impl\ProduitImpl.class
+sn\dev\jee\entity\Produit.class
+sn\dev\jee\dao\Test.class
+sn\dev\jee\dao\IProduit.class
+sn\dev\jee\web\ProduitServlet.class
